@@ -1,0 +1,22 @@
+<annotation>
+    <folder>train_data</folder>
+    <filename>633465_329131.png</filename>
+    <size>
+        <width>768</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>basket_court</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>111.855469</xmin>
+            <ymin>218.716156</ymin>
+            <xmax>482.372406</xmax>
+            <ymax>441.425781</ymax>
+        </bndbox>
+    </object>
+</annotation>

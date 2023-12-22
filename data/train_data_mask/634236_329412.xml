@@ -1,0 +1,34 @@
+<annotation>
+    <folder>train_data</folder>
+    <filename>634236_329412.png</filename>
+    <size>
+        <width>768</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>basket_court</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>129.600431</x1>
+            <y1>244.209289</y1>
+            <x2>153.587562</x2>
+            <y2>453.233699</y2>
+            <x3>562.118731</x3>
+            <y3>418.490040</y3>
+            <x4>537.922057</x4>
+            <y4>199.414930</y4>
+            <x5>125.865424</x5>
+            <y5>234.096094</y5>
+        </polygon>
+        <bndbox>
+            <xmin>125.865425</xmin>
+            <ymin>199.414932</ymin>
+            <xmax>562.118713</xmax>
+            <ymax>453.233704</ymax>
+        </bndbox>
+    </object>
+</annotation>
